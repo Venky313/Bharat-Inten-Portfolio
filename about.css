@@ -1,0 +1,42 @@
+*{  
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-image: linear-gradient(to right, rgba(178, 240, 245, 0.397) , rgb(56, 100, 243));
+}
+.dis{
+    display: flex;
+
+}
+.bg{
+    margin:80px;
+    background-color: aliceblue;
+    border-radius: 35px;
+}
+.imgs{
+    padding:65px 65px 65px 65px;
+    height: 800px;
+    width:650px;
+}
+.pa{
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 20px;
+}
+.top{
+    padding-top: 65px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    padding-top:0px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
